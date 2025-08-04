@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @kimj25
+- If you need to see private projects, pleasee reach out to me :)!
 - 📫 How to reach me : csjykim25@gmail.com
