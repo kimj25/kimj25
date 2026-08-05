@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Julie and I am CS student @ Oregon State University.
-- I can do Fullstack, applied AI
-- Currently interested in building health tech, user-facing data tools
+👋 Hi, I'm Julie — a CS student at Oregon State University
 
-  
-- 📫 How to reach me : csjykim25@gmail.com
+💻 I build full-stack apps and applied AI systems
+
+🩺 Currently interested in health tech and user-facing data tools
+
+📫 Reach me at csjykim25@gmail.com
